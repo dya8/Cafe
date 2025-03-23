@@ -56,7 +56,6 @@ Make sure you have the following installed:
 
 ## Usage
 - **Customers** can browse the cafe menu, add items to their cart, and place orders.
-- **Admins** can log in to manage the menu, including adding, editing, and deleting items.
 
 ## Folder Structure
 ```bash
